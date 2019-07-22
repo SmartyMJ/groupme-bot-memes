@@ -1,4 +1,4 @@
-# GroupMe Bot Starter
+# Meme of the Week GroupMe Bot
 
 [![GNU GPLv3 License](https://img.shields.io/github/license/acmatuc/groupme-bot-starter.svg?maxAge=2592000)]()
 [![Dependencies Status](https://david-dm.org/acmatuc/groupme-bot-starter/status.svg)](https://david-dm.org/acmatuc/groupme-bot-starter)
